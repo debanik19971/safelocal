@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Lidocaine",
+		"type": "Plain",
+		"dosageFactor": 5,
+	},
+	{
+		"name": "Lidocaine",
+		"type": "Epinephrine",
+		"dosageFactor": 7.14285714
+	},	
+	{
+		"name": "Mepivacaine",
+		"type": "Plain",
+		"dosageFactor": 5,
+	},		
+	{
+		"name": "Mepivacaine",
+		"type": "Epinephrine",
+		"dosageFactor": 7.14285714,
+	},		
+	{
+		"name": "Bupivacaine",
+		"type": "Plain",
+		"dosageFactor": 2.5,
+	},	
+	{
+		"name": "Bupivacaine",
+		"type": "Epinephrine",
+		"dosageFactor": 3.21428571,
+	},	
+	{
+		"name": "Ropivacaine",
+		"type": "Plain",
+		"dosageFactor": 2.85714286,
+	},
+	{
+		"name": "Ropivacaine",
+		"type": "Epinephrine",		
+		"dosageFactor": 3.57142857,
+	}
+]
